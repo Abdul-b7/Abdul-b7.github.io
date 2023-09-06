@@ -101,6 +101,7 @@ body {
   grid-template-rows: 1fr 1fr;
   gap: 8px;
   margin-top: 20px;
+  margin-left: 55px;
 }
 .date {
   background: #ed5983;
