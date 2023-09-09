@@ -118,7 +118,7 @@ body {
   grid-template-rows: 1fr 1fr;
   gap: 5px;
   margin-top: 20px;
-  margin-left: 50px;
+  
 }
 .wish-t {
   text-align: center;
@@ -595,14 +595,15 @@ body {
   /* .wish h3{
     /* margin: 20px 0 30px 0px; 
   } */
+  .wish{
+    margin-left: 90px;
+  }
   #wish-t {
     font-size: 20px;
   }
   .date{
     margin-left: 40px;
-  .wish{
-    margin-left: 60px;
-  }
+  
   #gift_item_2:hover {
     cursor: pointer;
     transition: 2s;
