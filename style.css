@@ -515,7 +515,7 @@ body {
   .gifts {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 60px;
+    gap: 100px;
   }
   #gift_item_1,
   #gift_item_2 img {
